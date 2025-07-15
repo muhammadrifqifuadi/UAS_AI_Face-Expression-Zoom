@@ -1,0 +1,9 @@
+opencv-python
+deepface
+pyvirtualcam
+streamlit
+pandas
+numpy
+openpyxl
+mss
+pygetwindow
